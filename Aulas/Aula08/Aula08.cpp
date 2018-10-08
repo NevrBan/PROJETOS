@@ -29,6 +29,7 @@ int main()
 
 	printf("Hello Word");
 
+	system("pause");
 
 
     return 0;
