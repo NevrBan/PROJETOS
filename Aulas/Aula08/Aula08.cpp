@@ -54,6 +54,13 @@ int main()
 		printf("O resultado da soma é: %i\n", f);
 		//printf("last commit")
 	
+		// leitura SCANF / SCANF_S
+		scanf_s("%i", &f);
+
+		printf("\nVoce digitou %i\n", f);
+
+
+
 	system("pause");
 
 
