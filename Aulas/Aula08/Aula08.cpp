@@ -25,10 +25,9 @@ int main()
 	// variavel local
 	//(visivel somente nesta funcao, a partir dessa linha)
 	int e;
-
-
 	printf("Hello Word!\n");
 	// \n dentre aspas pula linha
+	// \t pula espaço(TAB)
 
 	system("pause");
 
