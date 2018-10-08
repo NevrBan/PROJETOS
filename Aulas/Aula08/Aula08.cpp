@@ -52,7 +52,7 @@ int main()
 		int f = a + e;
 
 		printf("O resultado da soma é: %i\n", f);
-		
+		//printf("last commit")
 	
 	system("pause");
 
