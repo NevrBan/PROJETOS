@@ -27,7 +27,8 @@ int main()
 	int e;
 
 
-	printf("Hello Word");
+	printf("Hello Word!\n");
+	// \n dentre aspas pula linha
 
 	system("pause");
 
