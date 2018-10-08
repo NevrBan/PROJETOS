@@ -27,6 +27,10 @@ int main()
 	int e;
 
 
+	printf("Hello Word");
+
+
+
     return 0;
 }
 
