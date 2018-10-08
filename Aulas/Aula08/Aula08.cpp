@@ -29,6 +29,31 @@ int main()
 	// \n dentre aspas pula linha
 	// \t pula espaço(TAB)
 
+
+	printf("\n");
+
+		//como imprimir valores
+		printf("%i\n", 99);
+		printf("%f\n", 100.01);
+
+
+		// texto (string)  valores juntos
+		printf("Aqui vai o valor %i total, da soma.\n", 98 + 5);
+		
+		
+		printf("%i + %i = %i\n", 500, 600, 500 + 600);
+
+		printf(" Por algum acaso esqueci o valor daqui: %i\n");
+
+		
+		a = 150;
+		e = 275;
+		
+		int f = a + e;
+
+		printf("O resultado da soma é: %i\n", f);
+		
+	
 	system("pause");
 
 
